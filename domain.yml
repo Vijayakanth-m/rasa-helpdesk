@@ -48,7 +48,7 @@ responses:
   utter_out_of_scope:
   - text: Sorry, I'm not sure how to respond to that. Type "help" for assistance.
   utter_greet:
-  - text: Hallo! I'm your IT Helpdesk Assistant.
+  - text: Hello! I'm your IT Helpdesk Assistant.
   utter_goodbye:
   - text: Goodbye!
   utter_iamabot:
