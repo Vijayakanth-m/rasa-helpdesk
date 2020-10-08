@@ -31,6 +31,7 @@
 - am I talking to a human?
 - you are a bot right
 - aren't you a bot
+- who are you?
 
 ## intent:password_reset
 - need to reset my password
@@ -109,6 +110,7 @@
 - I want to order a pizza
 - what is the weather today
 - what is the weather
+- what is my name?
 
 ## intent:incident_status
 - I want to check if my ticket has been closed
@@ -122,13 +124,13 @@
 - Can I see the status of the ticket I opened?
 - Check ticket status
 - check incident status
-- ok, try looking it up for abraham.lincoln@example.com 
+- ok, try looking it up for abraham.lincoln@example.com
 - look up ticket status for abel.tuter@example.com
 
 ## intent:affirm
 - yes
 - yes please
-- yes I would 
+- yes I would
 - please do
 - yup
 - yep
@@ -150,10 +152,16 @@
 - no, use abraham.lincoln@example.com
 
 ## intent:human_handoff
-- I want a human 
+- I want a human
 - can I speak to an agent
 - real agent please
-- real human 
+- real human
 - chat with a live agent
 - give me a person please
 - i want to talk to a human
+
+## synonym:high
+- urgent
+- really important
+- escalated
+- escalate
